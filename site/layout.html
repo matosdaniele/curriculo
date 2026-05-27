@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="__LANG__">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="__META_DESC__">
+  <title>__TITLE__</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=Fraunces:opsz,wght@9..144,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <a class="skip-link" href="#conteudo">__SKIP__</a>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="brand">
+        <p class="eyebrow">__EYEBROW__</p>
+        <h1 class="name">Daniele de Lima Matos</h1>
+        <p class="tagline">__TAGLINE__</p>
+      </div>
+      <div class="header-actions">
+        <nav class="lang-nav" aria-label="__LANG_NAV_LABEL__">
+          <a href="index.html" class="lang-link __LANG_PT_ACTIVE__">PT</a>
+          <a href="en.html" class="lang-link __LANG_EN_ACTIVE__">EN</a>
+          <a href="analista-sistemas.html" class="lang-link __VARIANT_ACTIVE__">__VARIANT_LABEL__</a>
+        </nav>
+        <button type="button" class="btn btn-ghost" onclick="window.print()" aria-label="__PRINT_LABEL__">
+          __PRINT__
+        </button>
+      </div>
+    </div>
+    <div class="contact-bar">
+      <span>Alvorada, RS — Brasil</span>
+      <a href="mailto:matos.daniele@gmail.com">matos.daniele@gmail.com</a>
+      <a href="tel:+5511994314568">(11) 99431-4568</a>
+      <a href="https://www.linkedin.com/in/daniele-de-lima-matos/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+      <a href="https://greyspaceplus.com.br/" target="_blank" rel="noopener noreferrer">GreySpace+</a>
+    </div>
+  </header>
+
+  <div class="layout">
+    <aside class="sidebar" aria-label="__TOC_LABEL__">
+      <nav class="toc" id="toc"></nav>
+    </aside>
+    <main id="conteudo" class="content prose">
+__BODY__
+    </main>
+  </div>
+
+  <footer class="site-footer">
+    <p>__FOOTER__</p>
+  </footer>
+
+  <script src="js/site.js"></script>
+</body>
+</html>

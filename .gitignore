@@ -1,6 +1,11 @@
-# Artefatos gerados na exportação
+# Artefatos gerados na exportação (raiz — pandoc/pdf)
+/*.html
+
+# PDFs em qualquer pasta
 *.pdf
-*.html
+
+# Build temporário do site
+site/.build-tmp/
 
 # LaTeX / Pandoc (gerados ao tentar build com xelatex)
 missfont.log
