@@ -66,7 +66,7 @@ Interesse em **Business Intelligence**, **Analytics** e **Data Science**, com **
 
 ---
 
-### NCR Corporation — São Paulo e Região
+### NCR Corporation — São Paulo, SP
 
 **Analista de Suporte de Sistemas** | *jul/2016 – mar/2018*
 
@@ -79,7 +79,7 @@ Interesse em **Business Intelligence**, **Analytics** e **Data Science**, com **
 
 ---
 
-### Plan Informática — Pinheiros, São Paulo, SP
+### Plan Informática — São Paulo, SP
 
 **Supervisora de TI** | *jul/2012 – mar/2015*
 
@@ -93,7 +93,7 @@ Interesse em **Business Intelligence**, **Analytics** e **Data Science**, com **
 
 ## Formação Acadêmica
 
-### Centro Universitário Senac — São Paulo, SP
+### Centro Universitário Senac — Porto Alegre, RS
 
 **MBA — Data Science, BI e Inteligência Artificial** | *2025 – 2026 (em andamento)*
 
@@ -116,7 +116,7 @@ Interesse em **Business Intelligence**, **Analytics** e **Data Science**, com **
 
 ---
 
-### Anhanguera Educacional
+### Anhanguera Educacional — São Paulo, SP
 
 **Tecnologia em Análise e Desenvolvimento de Sistemas** | *2014 – 2016*
 
@@ -138,14 +138,14 @@ Interesse em **Business Intelligence**, **Analytics** e **Data Science**, com **
 | **ETL / Integração** | SSIS, DTS, cargas de SQL Server, Excel, XML, JSON, flat files |
 | **BI / Analytics** | Power BI, relatórios, validação de cargas, extração de bases |
 | **Desenvolvimento** | C#, **Python** (scripts, automação e análise exploratória de dados), Git |
-| **Ferramentas** | SSMS, Jira, Alteryx |
+| **Ferramentas** | SSMS, Jira, Alteryx (curso interno Keyrus e uso profissional) |
 | **Domínio de negócio** | Automação comercial (Aloha, Colibri), benefícios corporativos, varejo |
 
 ---
 
 ## Cursos Complementares
 
-- Alteryx  
+- Alteryx — curso interno (Keyrus) e uso profissional  
 - Java  
 - Python  
 - Microsoft SQL Server  

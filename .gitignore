@@ -1,3 +1,9 @@
 # Artefatos gerados na exportação
 *.pdf
 *.html
+
+# LaTeX / Pandoc (gerados ao tentar build com xelatex)
+missfont.log
+mfput.log
+*.aux
+*.log

@@ -60,7 +60,7 @@ Tecnóloga em **Análise e Desenvolvimento de Sistemas** e em formação em **MB
 
 ---
 
-### NCR Corporation — São Paulo e Região
+### NCR Corporation — São Paulo, SP
 
 **Analista de Suporte de Sistemas** | *jul/2016 – mar/2018*
 
@@ -71,7 +71,7 @@ Tecnóloga em **Análise e Desenvolvimento de Sistemas** e em formação em **MB
 
 ---
 
-### Plan Informática — Pinheiros, São Paulo, SP
+### Plan Informática — São Paulo, SP
 
 **Supervisora de TI** | *jul/2012 – mar/2015*
 
@@ -84,7 +84,7 @@ Tecnóloga em **Análise e Desenvolvimento de Sistemas** e em formação em **MB
 
 ## Formação Acadêmica
 
-### Anhanguera Educacional
+### Anhanguera Educacional — São Paulo, SP
 
 **Tecnologia em Análise e Desenvolvimento de Sistemas** | *2014 – 2016* — **concluído**
 
@@ -93,7 +93,7 @@ Tecnóloga em **Análise e Desenvolvimento de Sistemas** e em formação em **MB
 
 ---
 
-### Centro Universitário Senac — São Paulo, SP
+### Centro Universitário Senac — Porto Alegre, RS
 
 **MBA — Data Science, BI e Inteligência Artificial** | *2025 – 2026 (em andamento)*
 
@@ -128,7 +128,7 @@ Tecnóloga em **Análise e Desenvolvimento de Sistemas** e em formação em **MB
 
 ## Cursos Complementares
 
-- Microsoft SQL Server · Microsoft SSIS e SSAS · Java · Python · Alteryx
+- Microsoft SQL Server · Microsoft SSIS e SSAS · Java · Python · Alteryx — curso interno (Keyrus) e uso profissional
 
 ---
 

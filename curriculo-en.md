@@ -66,7 +66,7 @@ Interested in **Business Intelligence**, **Analytics**, and **Data Science**, wi
 
 ---
 
-### NCR Corporation — São Paulo Region, Brazil
+### NCR Corporation — São Paulo, SP
 
 **Systems Support Analyst** | *Jul 2016 – Mar 2018*
 
@@ -79,7 +79,7 @@ Interested in **Business Intelligence**, **Analytics**, and **Data Science**, wi
 
 ---
 
-### Plan Informatica — Pinheiros, São Paulo, Brazil
+### Plan Informatica — São Paulo, SP
 
 **IT Supervisor** | *Jul 2012 – Mar 2015*
 
@@ -93,7 +93,7 @@ Interested in **Business Intelligence**, **Analytics**, and **Data Science**, wi
 
 ## Education
 
-### Centro Universitário Senac — São Paulo, Brazil
+### Centro Universitário Senac — Porto Alegre, Brazil
 
 **MBA — Data Science, BI and Artificial Intelligence** | *2025 – 2026 (in progress)*
 
@@ -116,7 +116,7 @@ Interested in **Business Intelligence**, **Analytics**, and **Data Science**, wi
 
 ---
 
-### Anhanguera Educacional — Brazil
+### Anhanguera Educacional — São Paulo, SP
 
 **Associate Degree — Systems Analysis and Development** | *2014 – 2016*
 
@@ -138,14 +138,14 @@ Interested in **Business Intelligence**, **Analytics**, and **Data Science**, wi
 | **ETL / Integration** | SSIS, DTS, SQL Server, Excel, XML, JSON, flat files |
 | **BI / Analytics** | Power BI, reporting, load validation, data extraction |
 | **Development** | C#, **Python** (scripting, automation, exploratory data analysis), Git |
-| **Tools** | SSMS, Jira, Alteryx |
+| **Tools** | SSMS, Jira, Alteryx (internal course at Keyrus and professional use) |
 | **Domain** | Retail automation (Aloha, Colibri), corporate benefits, retail |
 
 ---
 
 ## Additional Courses
 
-- Alteryx  
+- Alteryx — internal course (Keyrus) and professional use  
 - Java  
 - Python  
 - Microsoft SQL Server  
