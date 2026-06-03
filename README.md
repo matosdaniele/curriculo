@@ -4,19 +4,23 @@ Repositório do currículo profissional, com base no perfil do [LinkedIn](https:
 
 ## Site (currículo online)
 
+O site fica na **raiz** do repositório: `index.html`, `en.html`, `analista-sistemas.html`, `css/`, `js/`.
+
 ```bash
 chmod +x build-site.sh
 ./build-site.sh
-cd site && python3 -m http.server 8080
+python3 -m http.server 8080
 ```
 
-Abra [http://localhost:8080](http://localhost:8080) — páginas: **PT** (`index.html`), **EN** (`en.html`), **Analista de Sistemas** (`analista-sistemas.html`).
+Abra [http://localhost:8080](http://localhost:8080).
 
 ### Publicar no GitHub Pages
 
 1. Envie o repositório para o GitHub.
-2. **Settings → Pages → Source:** pasta `/site` (ou branch `main`, diretório `site`).
-3. Após cada edição nos `.md`, rode `./build-site.sh` e faça commit da pasta `site/`.
+2. **Settings → Pages →** Branch **main**, pasta **`/ (root)`**.
+3. Após editar os `.md`: `./build-site.sh` e commit de `index.html`, `en.html`, `analista-sistemas.html`, `css/`, `js/`.
+
+Template do layout: [`site/layout.html`](site/layout.html).
 
 ## Arquivos
 
@@ -26,7 +30,8 @@ Abra [http://localhost:8080](http://localhost:8080) — páginas: **PT** (`index
 | [`curriculo-en.md`](curriculo-en.md) | Versão em inglês (vagas internacionais / remotas) |
 | [`curriculo-analista-sistemas-auxiliadora.md`](curriculo-analista-sistemas-auxiliadora.md) | Versão focada na vaga **Analista de Sistemas \| TI** — Auxiliadora Predial |
 | [`carta-auxiliadora-predial.md`](carta-auxiliadora-predial.md) | Carta de apresentação para a mesma candidatura |
-| [`site/`](site/) | Site estático gerado por `build-site.sh` |
+| `index.html`, `css/`, `js/` | Site na raiz (gerado por `build-site.sh`) |
+| [`site/layout.html`](site/layout.html) | Template HTML do site |
 
 ### Auxiliadora Predial (Analista de Sistemas)
 

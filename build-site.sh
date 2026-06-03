@@ -1,18 +1,17 @@
 #!/usr/bin/env bash
-# Gera o site estático em site/ a partir dos arquivos Markdown.
+# Gera o site na raiz do repositório (index.html, en.html, etc.).
 set -euo pipefail
 
 ROOT="$(cd "$(dirname "$0")" && pwd)"
-SITE="$ROOT/site"
-LAYOUT="$SITE/layout.html"
-TMP="$SITE/.build-tmp"
+LAYOUT="$ROOT/site/layout.html"
+TMP="$ROOT/.build-tmp"
 
 if ! command -v pandoc >/dev/null; then
   echo "Erro: pandoc não encontrado." >&2
   exit 1
 fi
 
-mkdir -p "$SITE/css" "$SITE/js" "$TMP"
+mkdir -p "$ROOT/css" "$ROOT/js" "$TMP"
 
 md_to_html() {
   local file="$1"
@@ -67,7 +66,7 @@ build_page() {
   sed -e '/__BODY__/r '"$TMP/body.html" -e '/__BODY__/d' "$TMP/layout.html" > "$out"
 }
 
-build_page "curriculo.md" "$SITE/index.html" "pt-BR" \
+build_page "curriculo.md" "$ROOT/index.html" "pt-BR" \
   "Daniele de Lima Matos — Currículo" \
   "DBA Pleno · Engenharia de Dados · Business Intelligence" \
   "Currículo profissional de Daniele de Lima Matos — DBA, dados e BI." \
@@ -81,7 +80,7 @@ build_page "curriculo.md" "$SITE/index.html" "pt-BR" \
   "is-active" "" "" \
   "Idioma"
 
-build_page "curriculo-en.md" "$SITE/en.html" "en" \
+build_page "curriculo-en.md" "$ROOT/en.html" "en" \
   "Daniele de Lima Matos — Resume" \
   "Senior DBA · Data Engineering · Business Intelligence" \
   "Professional resume of Daniele de Lima Matos — DBA, data and BI." \
@@ -95,7 +94,7 @@ build_page "curriculo-en.md" "$SITE/en.html" "en" \
   "" "is-active" "" \
   "Language"
 
-build_page "curriculo-analista-sistemas-auxiliadora.md" "$SITE/analista-sistemas.html" "pt-BR" \
+build_page "curriculo-analista-sistemas-auxiliadora.md" "$ROOT/analista-sistemas.html" "pt-BR" \
   "Daniele de Lima Matos — Analista de Sistemas" \
   "Analista de Sistemas · Sustentação · Requisitos · SQL" \
   "Currículo focado em Analista de Sistemas — Daniele de Lima Matos." \
@@ -111,10 +110,11 @@ build_page "curriculo-analista-sistemas-auxiliadora.md" "$SITE/analista-sistemas
 
 rm -rf "$TMP"
 
-echo "Site gerado em $SITE/"
+echo "Site gerado na raiz do repositório:"
 echo "  - index.html"
 echo "  - en.html"
 echo "  - analista-sistemas.html"
+echo "  - css/  js/"
 echo ""
-echo "Visualizar: cd site && python3 -m http.server 8080"
-echo "Abrir: http://localhost:8080"
+echo "Visualizar: python3 -m http.server 8080"
+echo "GitHub Pages: Settings → Pages → Branch main → Folder / (root)"

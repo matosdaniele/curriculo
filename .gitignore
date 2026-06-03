@@ -1,13 +1,22 @@
-# Artefatos gerados na exportação (raiz — pandoc/pdf)
-/*.html
+# HTML gerados pelo Pandoc (build PDF), não pelo site
+curriculo.html
+curriculo-en.html
+curriculo-analista-sistemas-auxiliadora.html
+carta-auxiliadora-predial.html
 
-# PDFs em qualquer pasta
+# PDFs
 *.pdf
 
-# Build temporário do site
+# Build temporário
+.build-tmp/
 site/.build-tmp/
 
-# LaTeX / Pandoc (gerados ao tentar build com xelatex)
+# Cópias antigas do site em site/ (use a raiz)
+site/index.html
+site/en.html
+site/analista-sistemas.html
+
+# LaTeX / Pandoc
 missfont.log
 mfput.log
 *.aux
