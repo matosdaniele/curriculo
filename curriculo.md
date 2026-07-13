@@ -4,7 +4,7 @@
 
 Alvorada, RS — Brasil  
 [matos.daniele@gmail.com](mailto:matos.daniele@gmail.com) · (11) 99431-4568  
-[LinkedIn](https://www.linkedin.com/in/daniele-de-lima-matos/) · [PDF](Curriculo-DanieleLM.pdf)
+[LinkedIn](https://www.linkedin.com/in/matosdaniele/) · [PDF](Curriculo-DanieleLM.pdf)
 
 ---
 
@@ -99,7 +99,7 @@ Interesse em **Business Intelligence**, **Analytics** e **Data Science**, com **
 
 - Formação em Data Science, BI e IA (360 h): fundamentos de BI e estatística até machine learning e IA.
 - Manipulação de dados com **pandas** em **Jupyter Notebooks** (análise exploratória e preparação de bases).
-- **Projeto final** em grupo com outros MBAs (UEX, Segurança e Liderança): [GreySpace+](https://greyspaceplus.com.br/) — plataforma digital de economia prateada (empregabilidade, capacitação e comunidade para público 50+).
+- **Projeto final** em grupo com outros MBAs (UEX, Segurança e Liderança): [Mais Experiência](https://maisexperiencia.com.br/) — plataforma digital de economia prateada (empregabilidade, capacitação e comunidade para público 50+).
 - **Desenvolvimento integral** da plataforma (concepção, implementação e publicação), com **desenvolvimento assistido por IA** (Cursor) no ciclo de especificação, codificação e revisão — aplicando na prática competências do MBA em IA e engenharia de software.
 
 ---

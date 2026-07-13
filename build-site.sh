@@ -37,11 +37,13 @@ build_page() {
   local print_label="${10}"
   local toc_label="${11}"
   local footer="${12}"
-  local variant_label="${13}"
-  local pt_active="${14}"
-  local en_active="${15}"
-  local variant_active="${16}"
+  local pt_active="${13}"
+  local en_active="${14}"
+  local sistemas_active="${15}"
+  local sql_active="${16}"
   local lang_nav="${17}"
+  local pdf_download="${18}"
+  local pdf_href="${19}"
 
   md_to_html "$ROOT/$md" > "$TMP/body.html"
 
@@ -54,13 +56,15 @@ build_page() {
     -e "s|__SKIP__|$skip|g" \
     -e "s|__PRINT__|$print|g" \
     -e "s|__PRINT_LABEL__|$print_label|g" \
+    -e "s|__PDF_DOWNLOAD__|$pdf_download|g" \
     -e "s|__TOC_LABEL__|$toc_label|g" \
     -e "s|__FOOTER__|$footer|g" \
-    -e "s|__VARIANT_LABEL__|$variant_label|g" \
     -e "s|__LANG_PT_ACTIVE__|$pt_active|g" \
     -e "s|__LANG_EN_ACTIVE__|$en_active|g" \
-    -e "s|__VARIANT_ACTIVE__|$variant_active|g" \
+    -e "s|__VARIANT_SISTEMAS_ACTIVE__|$sistemas_active|g" \
+    -e "s|__VARIANT_SQL_ACTIVE__|$sql_active|g" \
     -e "s|__LANG_NAV_LABEL__|$lang_nav|g" \
+    -e "s|__PDF_HREF__|$pdf_href|g" \
     "$LAYOUT" > "$TMP/layout.html"
 
   sed -e '/__BODY__/r '"$TMP/body.html" -e '/__BODY__/d' "$TMP/layout.html" > "$out"
@@ -76,9 +80,10 @@ build_page "curriculo.md" "$ROOT/index.html" "pt-BR" \
   "Imprimir currículo" \
   "Índice" \
   "Daniele de Lima Matos · Currículo online" \
-  "Sistemas" \
-  "is-active" "" "" \
-  "Idioma"
+  "is-active" "" "" "" \
+  "Idioma" \
+  "Baixar PDF" \
+  "Curriculo-DanieleLM.pdf"
 
 build_page "curriculo-en.md" "$ROOT/en.html" "en" \
   "Daniele de Lima Matos — Resume" \
@@ -90,9 +95,10 @@ build_page "curriculo-en.md" "$ROOT/en.html" "en" \
   "Print resume" \
   "Contents" \
   "Daniele de Lima Matos · Online resume" \
-  "Systems" \
-  "" "is-active" "" \
-  "Language"
+  "" "is-active" "" "" \
+  "Language" \
+  "Download PDF" \
+  "Curriculo-DanieleLM.pdf"
 
 build_page "curriculo-analista-sistemas-auxiliadora.md" "$ROOT/analista-sistemas.html" "pt-BR" \
   "Daniele de Lima Matos — Analista de Sistemas" \
@@ -104,17 +110,38 @@ build_page "curriculo-analista-sistemas-auxiliadora.md" "$ROOT/analista-sistemas
   "Imprimir currículo" \
   "Índice" \
   "Versão Analista de Sistemas · candidaturas TI / sustentação" \
-  "Sistemas" \
-  "" "" "is-active" \
-  "Idioma"
+  "" "" "is-active" "" \
+  "Idioma" \
+  "Baixar PDF" \
+  "curriculo-analista-sistemas-auxiliadora.pdf"
+
+build_page "curriculo-desenvolvedor-sql-vetta.md" "$ROOT/desenvolvedor-sql.html" "pt-BR" \
+  "Daniele de Lima Matos — Desenvolvedor SQL" \
+  "Desenvolvedor SQL · T-SQL · ETL · Business Intelligence" \
+  "Currículo focado em Desenvolvedor SQL — Daniele de Lima Matos." \
+  "Versão Desenvolvedor SQL" \
+  "Ir para o conteúdo" \
+  "Imprimir / PDF" \
+  "Imprimir currículo" \
+  "Índice" \
+  "Versão Desenvolvedor SQL · candidatura Vetta" \
+  "" "" "" "is-active" \
+  "Idioma" \
+  "Baixar PDF" \
+  "curriculo-desenvolvedor-sql-vetta.pdf"
 
 rm -rf "$TMP"
+
+# GitHub Pages: não usar Jekyll (evita README.md virar página inicial)
+touch "$ROOT/.nojekyll"
 
 echo "Site gerado na raiz do repositório:"
 echo "  - index.html"
 echo "  - en.html"
 echo "  - analista-sistemas.html"
+echo "  - desenvolvedor-sql.html"
 echo "  - css/  js/"
+echo "  - Curriculo-DanieleLM.pdf (incluir no commit para download no site)"
 echo ""
 echo "Visualizar: python3 -m http.server 8080"
 echo "GitHub Pages: Settings → Pages → Branch main → Folder / (root)"

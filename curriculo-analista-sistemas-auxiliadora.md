@@ -4,7 +4,7 @@
 
 Alvorada, RS — Brasil · Disponibilidade para atuação híbrida (Região Metropolitana de Porto Alegre)  
 [matos.daniele@gmail.com](mailto:matos.daniele@gmail.com) · (11) 99431-4568  
-[LinkedIn](https://www.linkedin.com/in/daniele-de-lima-matos/) · [PDF](Curriculo-DanieleLM.pdf)
+[LinkedIn](https://www.linkedin.com/in/matosdaniele/) · [PDF](Curriculo-DanieleLM.pdf)
 
 *Candidatura: **Analista de Sistemas | TI** — Grupo Auxiliadora Predial*
 
@@ -97,7 +97,7 @@ Tecnóloga em **Análise e Desenvolvimento de Sistemas** e em formação em **MB
 
 **MBA — Data Science, BI e Inteligência Artificial** | *2025 – 2026 (em andamento)*
 
-- Análise de dados, estatística aplicada, **pandas/Jupyter Notebooks** e projeto [GreySpace+](https://greyspaceplus.com.br/) (plataforma digital desenvolvida em grupo).
+- Análise de dados, estatística aplicada, **pandas/Jupyter Notebooks** e projeto [Mais Experiência](https://maisexperiencia.com.br/) (plataforma digital desenvolvida em grupo).
 
 ---
 

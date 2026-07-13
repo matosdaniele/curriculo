@@ -21,4 +21,4 @@ Atenciosamente,
 
 **Daniele de Lima Matos**  
 matos.daniele@gmail.com · (11) 99431-4568  
-[LinkedIn](https://www.linkedin.com/in/daniele-de-lima-matos/)
+[LinkedIn](https://www.linkedin.com/in/matosdaniele/)

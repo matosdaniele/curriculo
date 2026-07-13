@@ -1,6 +1,6 @@
 # Currículo — Daniele de Lima Matos
 
-Repositório do currículo profissional, com base no perfil do [LinkedIn](https://www.linkedin.com/in/daniele-de-lima-matos/).
+Repositório do currículo profissional, com base no perfil do [LinkedIn](https://www.linkedin.com/in/matosdaniele/).
 
 ## Site (currículo online)
 

@@ -4,7 +4,7 @@
 
 Alvorada, RS — Brazil  
 [matos.daniele@gmail.com](mailto:matos.daniele@gmail.com) · +55 (11) 99431-4568  
-[LinkedIn](https://www.linkedin.com/in/daniele-de-lima-matos/) · [PDF](Curriculo-DanieleLM.pdf)
+[LinkedIn](https://www.linkedin.com/in/matosdaniele/) · [PDF](Curriculo-DanieleLM.pdf)
 
 ---
 
@@ -99,7 +99,7 @@ Interested in **Business Intelligence**, **Analytics**, and **Data Science**, wi
 
 - 360-hour program from BI fundamentals and statistics to machine learning and AI.
 - Data manipulation with **pandas** in **Jupyter Notebooks** (exploratory analysis and data preparation).
-- **Capstone project** with fellow MBA students (UEX, Security and Leadership): [GreySpace+](https://greyspaceplus.com.br/) — silver-economy digital platform (jobs, training, and community for professionals 50+).
+- **Capstone project** with fellow MBA students (UEX, Security and Leadership): [Mais Experiência](https://maisexperiencia.com.br/) — silver-economy digital platform (jobs, training, and community for professionals 50+).
 - **End-to-end development** of the platform (concept, implementation, and launch) using **AI-assisted development** (Cursor) across specification, coding, and review — applying MBA skills in AI and software delivery.
 
 ---
