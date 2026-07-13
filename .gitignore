@@ -6,6 +6,7 @@ carta-auxiliadora-predial.html
 
 # PDFs
 *.pdf
+!Curriculo-DanieleLM.pdf
 
 # Build temporário
 .build-tmp/

@@ -4,7 +4,7 @@
 
 Alvorada, RS — Brasil · Disponibilidade para atuação híbrida (Região Metropolitana de Porto Alegre)  
 [matos.daniele@gmail.com](mailto:matos.daniele@gmail.com) · (11) 99431-4568  
-[LinkedIn](https://www.linkedin.com/in/daniele-de-lima-matos/)
+[LinkedIn](https://www.linkedin.com/in/daniele-de-lima-matos/) · [PDF](Curriculo-DanieleLM.pdf)
 
 *Candidatura: **Analista de Sistemas | TI** — Grupo Auxiliadora Predial*
 

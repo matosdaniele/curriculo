@@ -18,7 +18,11 @@ Abra [http://localhost:8080](http://localhost:8080).
 
 1. Envie o repositório para o GitHub.
 2. **Settings → Pages →** Branch **main**, pasta **`/ (root)`**.
-3. Após editar os `.md`: `./build-site.sh` e commit de `index.html`, `en.html`, `analista-sistemas.html`, `css/`, `js/`.
+3. Após editar os `.md`: `./build-site.sh` e commit de `index.html`, `en.html`, `analista-sistemas.html`, `css/`, `js/`, **`Curriculo-DanieleLM.pdf`**, **`.nojekyll`**.
+
+O arquivo **`.nojekyll`** impede o Jekyll de transformar o `README.md` na página inicial. Sem ele, o site pode mostrar o README em vez do `index.html`.
+
+URL do site: `https://SEU_USUARIO.github.io/curriculo/` (não confundir com a página do repositório no GitHub).
 
 Template do layout: [`site/layout.html`](site/layout.html).
 
@@ -30,6 +34,7 @@ Template do layout: [`site/layout.html`](site/layout.html).
 | [`curriculo-en.md`](curriculo-en.md) | Versão em inglês (vagas internacionais / remotas) |
 | [`curriculo-analista-sistemas-auxiliadora.md`](curriculo-analista-sistemas-auxiliadora.md) | Versão focada na vaga **Analista de Sistemas \| TI** — Auxiliadora Predial |
 | [`carta-auxiliadora-predial.md`](carta-auxiliadora-predial.md) | Carta de apresentação para a mesma candidatura |
+| [`Curriculo-DanieleLM.pdf`](Curriculo-DanieleLM.pdf) | **Currículo oficial em PDF** (usado no site e candidaturas) |
 | `index.html`, `css/`, `js/` | Site na raiz (gerado por `build-site.sh`) |
 | [`site/layout.html`](site/layout.html) | Template HTML do site |
 
@@ -44,7 +49,9 @@ Gera `curriculo-analista-sistemas-auxiliadora.pdf` e `carta-auxiliadora-predial.
 
 ## Atualizar documentos (PDF)
 
-Após editar os `.md`, regenere os PDFs:
+**Currículo principal:** substitua ou atualize [`Curriculo-DanieleLM.pdf`](Curriculo-DanieleLM.pdf) e faça commit. O site e os `.md` apontam para esse arquivo.
+
+Para gerar PDFs a partir dos Markdown (versões alternativas):
 
 ```bash
 chmod +x build-pdf.sh build-all.sh

@@ -4,7 +4,7 @@
 
 Alvorada, RS — Brazil  
 [matos.daniele@gmail.com](mailto:matos.daniele@gmail.com) · +55 (11) 99431-4568  
-[LinkedIn](https://www.linkedin.com/in/daniele-de-lima-matos/)
+[LinkedIn](https://www.linkedin.com/in/daniele-de-lima-matos/) · [PDF](Curriculo-DanieleLM.pdf)
 
 ---
 
