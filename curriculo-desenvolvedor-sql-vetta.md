@@ -14,7 +14,7 @@ Alvorada, RS — Brasil · Disponibilidade para trabalho remoto
 
 Profissional de tecnologia com **12 anos de experiência**, com foco em **Microsoft SQL Server**, **T-SQL avançado**, **stored procedures**, **ETL** e **dados para Business Intelligence**. Trajetória em consultoria de **BI** (Keyrus, CDS) e em ambientes corporativos de alto volume (**838 Soluções**), desenvolvendo e sustentando rotinas analíticas, integrações e consultas de alta performance para relatórios, indicadores e tomada de decisão.
 
-Vivência em **otimização de desempenho** (planos de execução, índices, tuning de queries e procedures), **qualidade e integridade de dados** em cargas **SSIS**, e parceria com equipes de **BI e negócio** para requisitos, homologação e evolução contínua. Formação em **Análise e Desenvolvimento de Sistemas** e **MBA em Oracle** (SQL, modelagem, performance); **MBA em Data Science e BI** em andamento.
+Vivência em **otimização de desempenho** (planos de execução, índices, tuning de queries e procedures), **qualidade e integridade de dados** em cargas **SSIS**, e parceria com equipes de **BI e negócio** para requisitos, homologação e evolução contínua. Formação em **Análise e Desenvolvimento de Sistemas** e **MBA em Oracle** (SQL, modelagem, performance); **MBA em Data Science e BI** (concluído em jun/2026).
 
 ---
 
@@ -48,12 +48,12 @@ Vivência em **otimização de desempenho** (planos de execução, índices, tun
 
 ### Keyrus — São Paulo, SP
 
-**Analista de Sistemas (Business Intelligence)** | *nov/2018 – mar/2020*
+**Analista de Dados (Business Intelligence)** | *nov/2018 – mar/2020*
 
-- Projetos de **BI** em consultoria: **ETL com SSIS**, consultas **T-SQL** de alta complexidade e entrega de bases analíticas para **data marts**.
+- Consultoria de **BI** no cliente **Telefônica (Vivo)** / **MIS**: relatórios, bases analíticas e indicadores de contact center (ligações, retenção, faturamento de parceiros, por site/produto).
+- **ETL com SSIS** e consultas **T-SQL** de alta complexidade para **data marts**; validação de cargas e automatização de rotinas.
 - **Modelagem dimensional** e construção de indicadores; dashboards e relatórios em **Power BI** (KPIs gerenciais).
 - Levantamento de requisitos com áreas de negócio; homologação iterativa e documentação de regras e reconciliação de dados.
-- Otimização de consultas e cargas em cenários de alto volume; tratamento de dados com **SSMS** e **Excel**.
 
 ---
 
@@ -91,7 +91,7 @@ Vivência em **otimização de desempenho** (planos de execução, índices, tun
 
 ### Centro Universitário Senac — Porto Alegre, RS
 
-**MBA — Data Science, BI e Inteligência Artificial** | *2025 – 2026 (em andamento)*
+**MBA — Data Science, BI e Inteligência Artificial** | *2025 – jun/2026* — **concluído**
 
 - Análise de dados, estatística aplicada, **pandas/Jupyter Notebooks** e projeto [Mais Experiência](https://maisexperiencia.com.br/).
 

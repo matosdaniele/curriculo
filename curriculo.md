@@ -1,6 +1,6 @@
 # Daniele de Lima Matos
 
-**DBA Pleno | Engenharia de Dados | Business Intelligence**
+**DBA Pleno | Analista de Dados | Business Intelligence**
 
 Alvorada, RS — Brasil  
 [matos.daniele@gmail.com](mailto:matos.daniele@gmail.com) · (11) 99431-4568  
@@ -10,9 +10,9 @@ Alvorada, RS — Brasil
 
 ## Resumo
 
-Profissional de tecnologia com **12 anos de experiência** em bancos de dados, integração de dados, automação comercial e suporte a sistemas. Experiência em **segurança e engenharia de dados** como DBA Pleno. Trajetória consolidada em **SQL Server**, SSIS, Power BI e processos ETL, com vivência complementar em **MongoDB** (NoSQL) para consultas, agregações e cenários híbridos com dados estruturados. Histórico em liderança de equipes de suporte e TI.
+Profissional de tecnologia com **12 anos de experiência** em **SQL Server**, **análise de dados**, **ETL** e **Business Intelligence**. Atuação como **DBA Pleno / Analista de Dados** e em consultoria de BI (**Keyrus**), com foco em consultas e rotinas a partir de regras de negócio, qualidade e reconciliação de dados, pipelines **SSIS** e dashboards **Power BI**. Vivência complementar em **MongoDB** (NoSQL). Histórico em liderança de equipes de suporte e TI.
 
-Interesse em **Business Intelligence**, **Analytics** e **Data Science**, com **Python** para automação de rotinas e análise exploratória de dados. Em formação contínua em MBA com foco em Data Science, BI e Inteligência Artificial.
+Interesse em **Analytics** e **Data Science**, com **Python** para automação e análise exploratória. Formação em **MBA em Data Science, BI e Inteligência Artificial** (concluído em jun/2026). Perfil analítico, colaborativo e orientado a dados confiáveis para tomada de decisão.
 
 ---
 
@@ -20,36 +20,32 @@ Interesse em **Business Intelligence**, **Analytics** e **Data Science**, com **
 
 ### 838 Soluções em Benefícios — São Paulo, SP
 
-**DBA Pleno** | *maio/2022 – mar/2026*
+**DBA Pleno / Analista de Dados** | *maio/2022 – mar/2026*
 
-- Administração de instâncias **Microsoft SQL Server** (produção e homologação): manutenção, patches, monitoramento de disponibilidade e capacidade.
-- **Performance tuning**: análise de planos de execução, otimização de índices, queries e procedures; diagnóstico de bloqueios e contenção.
-- Políticas de **backup, restore e recuperação**; testes periódicos de restore e apoio a continuidade de negócio.
-- **Segurança de dados**: gestão de logins, permissões, roles e auditoria de acessos; alinhamento a boas práticas e requisitos de conformidade.
-- **Engenharia de dados**: evolução de pipelines **SSIS**, cargas incrementais e integração entre sistemas (SQL Server, arquivos, APIs, documentos **JSON**/NoSQL).
-- Governança de objetos de banco (schemas, views, procedures, jobs): versionamento, documentação e padronização.
-- Suporte de nível avançado a incidentes críticos em banco de dados e parceria com desenvolvimento (**C#**) e suporte na resolução de gargalos.
-- Automação de rotinas operacionais (jobs, alertas, scripts de manutenção) para reduzir risco operacional.
+- Desenvolvimento e manutenção de consultas e rotinas em **Microsoft SQL Server** a partir de regras de negócio, apoiando análises, indicadores e processos operacionais.
+- Construção e evolução de **views**, **procedures** e bases analíticas para consumo por relatórios e dashboards.
+- **Qualidade de dados:** validações de carga, reconciliação entre sistemas, checagem de duplicidade/integridade e documentação de regras.
+- Pipelines **ETL/SSIS** (cargas incrementais, múltiplas fontes) com foco em consistência e rastreabilidade; integração com arquivos, APIs e documentos **JSON**/NoSQL (**MongoDB**).
+- **Performance tuning** de consultas e jobs (ex.: redução de job crítico de **~24h para ~1h30**), melhorando a disponibilidade da informação para análise.
+- Administração de instâncias SQL Server (produção e homologação), políticas de **backup/restore**, segurança (logins, roles, auditoria) e parceria com desenvolvimento e áreas de negócio.
 
 **Analista de Sistemas Pleno** | *mar/2020 – abr/2022*
 
-- Análise e manipulação de tabelas, views, triggers, procedures e functions em **Microsoft SQL Server**.
-- Elaboração e desenvolvimento de processos **DTS/SSIS**.
-- Carregamento de dados de fontes diversas (SQL Server, flat files, Excel, XML, JSON).
-- Desenvolvimento de melhorias e apoio à equipe de suporte na solução de sistemas desenvolvidos em **C#**.
+- Extração e validação de dados com **SQL**; processos **DTS/SSIS**; homologação de entregas entre sistemas (**SQL Server**, Excel, XML, JSON e arquivos planos).
+- Análise e manutenção de tabelas, views, triggers, procedures e functions; apoio à equipe de suporte em sistemas **C#**.
 
 ---
 
 ### Keyrus — São Paulo, SP
 
-**Analista de Sistemas (Business Intelligence)** | *nov/2018 – mar/2020*
+**Analista de Dados (Business Intelligence)** | *nov/2018 – mar/2020*
 
-- Atuação em projetos de **Business Intelligence** em ambiente de consultoria: integração de dados, modelagem analítica e entrega de soluções para áreas de negócio.
-- Desenvolvimento e manutenção de pipelines **ETL/ELT com SSIS**, extraindo e transformando dados de fontes diversas para **SQL Server** (data marts e bases analíticas).
-- Construção e evolução de **dashboards e relatórios em Power BI** (modelagem de dados, KPIs e indicadores gerenciais).
-- Tratamento, limpeza e validação de dados com **SSMS** e Excel; documentação de regras de negócio e reconciliação entre origem e destino.
-- Otimização de consultas **T-SQL** e apoio à performance de cargas e relatórios em cenários de alto volume.
-- Interface com stakeholders para levantamento de requisitos, homologação de entregas e ajustes iterativos nos painéis.
+- Atuação em consultoria de **BI** no cliente **Telefônica (Vivo)**, setor **MIS**: extração de relatórios, manutenção de bases e indicadores operacionais para tomada de decisão em contact center.
+- Análises de atendimento e campanhas (volume/rastreio de ligações, retenção com/sem atendimento humano, faturamento e premiação de parceiros), por site e produto (ex.: pré/pós/controle, URA).
+- Desenvolvimento de consultas **T-SQL** e pipelines **ETL/SSIS** (múltiplas fontes, validação de cargas, automatização e notificação) para data marts e bases analíticas em **SQL Server**.
+- Modelagem dimensional (fatos e dimensões), definição de **KPIs** e construção de dashboards e relatórios em **Power BI** conectados a bases SQL.
+- Tratamento, limpeza e validação de dados; reconciliação origem/destino e documentação de regras de negócio.
+- Levantamento de requisitos com stakeholders, homologação iterativa das entregas e apresentação de resultados para apoiar a tomada de decisão.
 
 ---
 
@@ -57,12 +53,10 @@ Interesse em **Business Intelligence**, **Analytics** e **Data Science**, com **
 
 **Trainee BI** | *jun/2018 – nov/2018*
 
-- Primeira atuação em **Business Intelligence**: apoio à equipe em projetos de integração de dados e entrega de informações para áreas usuárias.
-- Execução e acompanhamento de rotinas de carga **SSIS**; validação de volumetria, integridade e aderência às regras de negócio após cada processamento.
-- Extração e consultas em **SQL Server** (SSMS) para análises ad hoc, investigação de inconsistências e suporte a relatórios.
-- Elaboração e revisão de **relatórios e visualizações em Power BI**, conferindo métricas e filtros com as bases de origem.
-- Uso de **Git** para versionamento de scripts e pacotes; documentação de evidências de testes e resultados de validação.
-- Conferência complementar em **Excel** para reconciliação entre sistemas e apoio à homologação das entregas.
+- Apoio em projetos de **Business Intelligence**: validação de cargas **SSIS**, consultas ad hoc em **SQL Server** e revisão de relatórios **Power BI**.
+- Reconciliação de dados (origem x destino) e checagens de consistência para garantir qualidade nas entregas analíticas.
+- Documentação de evidências de testes, regras e homologação junto às áreas envolvidas.
+- Versionamento de scripts e pacotes analíticos com **Git**, contribuindo para organização e rastreabilidade das entregas.
 
 ---
 
@@ -70,75 +64,75 @@ Interesse em **Business Intelligence**, **Analytics** e **Data Science**, com **
 
 **Analista de Suporte de Sistemas** | *jul/2016 – mar/2018*
 
-- Suporte técnico a **automação comercial** (varejo e food service) nos ecossistemas **Aloha** e **Colibri** — PDV, pedidos, **Colibri Back Office** e gestão (**Colibri Darwin**).
-- Atendimento a incidentes em ambiente de produção: diagnóstico, troubleshooting e correções com foco em continuidade operacional de lojas e redes de clientes.
-- Análise e manipulação de dados em **Microsoft SQL Server** (consultas, validações e scripts de apoio) para investigar falhas, inconsistências e comportamento dos sistemas.
-- Execução de **atualizações e patches** conforme procedimentos da fabricante, com registro em chamados e comunicação ao cliente.
-- Gestão de ordens de serviço em **Jira** (priorização, SLA e histórico); relatórios de desempenho do suporte (volume, reincidência, tempo de resolução) para ações de melhoria.
-- Participação em treinamentos corporativos de **segurança da informação**, eventos de automação comercial e curso de **inglês** para atuação em contexto multinacional.
+- Uso de **Microsoft SQL Server** para diagnóstico, validação de dados e análises de apoio em sistemas de varejo (**Aloha** e **Colibri**).
+- Identificação de inconsistências e problemas em produção a partir de consultas e checagens de integridade/volumetria.
+- Elaboração de relatórios operacionais de volume e desempenho para apoiar decisões da operação e do time de suporte.
+- Gestão de chamados e priorização de demandas em **Jira**, com comunicação entre suporte, desenvolvimento e áreas de negócio.
+- Suporte a automação comercial (PDV, Back Office) e execução de atualizações/patches conforme procedimentos da fabricante.
 
 ---
 
-### Plan Informática — São Paulo, SP
+### Plan Informática (Plan Automação) — São Paulo, SP
 
 **Supervisora de TI** | *jul/2012 – mar/2015*
 
-- **Supervisão de TI** na operação de suporte: planejamento de escalas e demandas do help desk, acompanhamento de indicadores e melhoria de processos de atendimento.
-- Coordenação e **capacitação da equipe** nos sistemas de automação comercial **Colibri** e **Girassol** (PDV, back office e rotinas de gestão de estabelecimentos).
-- Tratamento de incidentes escalados e interface com clientes em casos críticos, alinhando prioridades entre suporte N1/N2 e campo.
-- Condução de **treinamentos** para usuários finais e novos analistas (implantação operacional, uso do sistema e procedimentos de suporte).
-- **Trajetória na empresa** (~3 anos): técnica externa (implantação e treinamento em campo) → analista N1 → analista N2 → supervisora de TI.
+- Supervisão de equipe de suporte/TI em ambiente de **automação comercial** (varejo e food service).
+- Acompanhamento de indicadores operacionais (chamados, SLAs e desempenho) e proposição de melhorias de processo.
+- Interface com clientes e áreas internas para entender demandas, priorizar atendimentos e garantir qualidade na entrega.
+- Apoio à operação de sistemas de PDV/automação comercial (**Colibri**, **Girassol**), com visão do impacto de falhas e inconsistências no negócio.
+- Organização de rotinas, documentação de procedimentos e capacitação do time; trajetória de técnica externa a supervisora de TI.
 
 ---
 
 ## Formação Acadêmica
 
-### Centro Universitário Senac — Porto Alegre, RS
+### Centro Universitário Senac (UniSenac) — Porto Alegre, RS
 
-**MBA — Data Science, BI e Inteligência Artificial** | *2025 – 2026 (em andamento)*
+**MBA — Data Science, BI e Inteligência Artificial** | *2025 – jun/2026* — **concluído** — **360 h**
 
-- Formação em Data Science, BI e IA (360 h): fundamentos de BI e estatística até machine learning e IA.
-- Manipulação de dados com **pandas** em **Jupyter Notebooks** (análise exploratória e preparação de bases).
-- **Projeto final** em grupo com outros MBAs (UEX, Segurança e Liderança): [Mais Experiência](https://maisexperiencia.com.br/) — plataforma digital de economia prateada (empregabilidade, capacitação e comunidade para público 50+).
-- **Desenvolvimento integral** da plataforma (concepção, implementação e publicação), com **desenvolvimento assistido por IA** (Cursor) no ciclo de especificação, codificação e revisão — aplicando na prática competências do MBA em IA e engenharia de software.
-
----
-
-### UNIBTA — Centro Universitário — São Paulo, SP
-
-**MBA — Database Oracle** | *2016 – 2018*
-
-- Especialização em **administração e arquitetura Oracle Database**: modelagem relacional, SQL, **PL/SQL** e governança de objetos de banco.
-- Gestão de instâncias: tablespaces, usuários, perfis, roles, permissões e políticas de **segurança e auditoria**.
-- **Backup e recovery** com RMAN, export/import (Data Pump) e noções de alta disponibilidade e continuidade de negócio.
-- **Performance tuning**: índices, estatísticas, planos de execução e otimização de consultas em ambientes transacionais.
-- Projetos práticos em laboratório: modelagem de dados, rotinas de manutenção e resolução de cenários de falha e restauração.
+- Formação aplicada que integra análise de dados, BI, estatística, inteligência artificial e gestão.
+- **BI e análise:** Data Warehousing, análise avançada para BI, estatística, visualização e data storytelling — transformar dados em informação confiável para decisão.
+- **Ciência de dados e IA:** machine learning, redes neurais, NLP, automação inteligente e Big Data; ciclo analítico da exploração à modelagem e automação. Manipulação de dados com **pandas** em **Jupyter Notebooks**.
+- **Gestão e soft skills:** gestão de projetos complexos, planos de negócios, inovação, marketing 4.0 e competências comportamentais — articulação entre técnica e negócio.
+- Nos **Projetos Interdisciplinares I, II e III** nasceu a [**Mais Experiência**](https://maisexperiencia.com.br/) — plataforma digital para pessoas 50+ (empregabilidade, capacitação e comunidade). Evolução da concepção à publicação, em colaboração multidisciplinar com outros MBAs e **desenvolvimento assistido por IA** (Cursor).
 
 ---
 
-### Anhanguera Educacional — São Paulo, SP
+### Centro Universitário IBTA (UniBTA) — São Paulo, SP
 
-**Tecnologia em Análise e Desenvolvimento de Sistemas** | *2014 – 2016*
+**MBA — Administração de Banco de Dados Oracle** | *2016 – 2018* — **435 h**
 
-- Tecnólogo em **5 semestres** (2,5 anos), conforme grade [Anhanguera](https://www.anhanguera.com/curso/analise-e-desenvolvimento-de-sistemas/): **projetos integrados** (síntese, inovação, interdisciplinar) e **projetos de extensão** em ADS.
-- **1º–2º semestres** — fundamentos: arquitetura e organização de computadores, redes, interface e usabilidade, algoritmos e programação estruturada, lógica e matemática computacional, análise e modelagem de sistemas, engenharia de software e linguagem de programação.
-- **3º semestre** — análise e linguagem **orientada a objetos**, **modelagem de dados**, sistemas operacionais e Green IT.
-- **4º–5º semestres** — desenvolvimento aplicado: programação e desenvolvimento de **banco de dados**, programação **web**, **JavaScript**, frameworks, **computação em nuvem**, qualidade e **automação de testes**, desenvolvimento **mobile** e responsivo, **sistemas distribuídos**.
-- **Segurança e conformidade**: segurança e auditoria de sistemas; privacidade e proteção de dados (base para práticas alinhadas à **LGPD**).
+- Fundamentos e práticas de administração de banco de dados, com foco em **Oracle** e visão complementar de **SQL Server**, **DB2**, Big Data e Cloud.
+- **Trilha técnica:** arquitetura e administração de BD, projeto de banco relacional, **SQL** e **PL/SQL**, backup e recuperação, alta disponibilidade e **tuning** — desempenho, continuidade e integridade dos dados.
+- **Ambientes modernos e analytics:** arquitetura de Big Data, cloud computing para BD e banco de dados para BI.
+- **Gestão:** desenvolvimento gerencial, empreendedorismo e inovação e jogos de negócio — visão de gestão e articulação entre TI e negócio.
+- **TCC:** monografia *Banco de Dados: a Interação Social*.
+
+---
+
+### Centro Universitário Anhanguera de São Paulo — São Paulo, SP
+
+**Tecnologia em Análise e Desenvolvimento de Sistemas** | *2014 – 2016* — **concluído** — **~2.000 h**
+
+- Base no ciclo de desenvolvimento de software: análise e modelagem, programação, banco de dados, engenharia de software e projetos práticos ([grade Anhanguera](https://www.anhanguera.com/curso/analise-e-desenvolvimento-de-sistemas/)).
+- **Formação técnica:** algoritmos e programação estruturada, orientação a objetos, linguagens de programação, **JavaScript**, programação web e mobile, modelagem de dados e programação de banco de dados; arquitetura de computadores, sistemas operacionais, redes, sistemas distribuídos, computação em nuvem, segurança e auditoria, interface/usabilidade e engenharia/projeto de software.
+- Nos **Projetos Integrados (ProInter)** e de Extensão: em equipe, **Sistema de Gerenciamento para Banho e Tosa de Pet Shop** — agendamento, cadastro de clientes e animais, perfis usuário/administrador, relatórios e filmagem com vídeo em tempo real ao cliente via internet (requisitos, instalação e navegabilidade).
 - Hackathon **Pela diversidade racial** (Secretaria de SP + Microsoft + Anhanguera): solução em equipe com prazo reduzido e foco em impacto social.
 
 ---
 
-## Competências Técnicas
+## Competências
 
 | Área | Tecnologias e práticas |
 |------|------------------------|
-| **Bancos relacionais** | Microsoft SQL Server, Oracle, procedures, functions, triggers, views |
-| **NoSQL** | **MongoDB** — modelagem documental, consultas (`find`), pipelines de agregação, leitura/escrita e interoperabilidade com cargas SQL |
-| **ETL / Integração** | SSIS, DTS, cargas de SQL Server, Excel, XML, JSON, flat files |
-| **BI / Analytics** | Power BI, relatórios, validação de cargas, extração de bases |
-| **Desenvolvimento** | C#, **Python** (scripts, automação e análise exploratória de dados), Git |
-| **Ferramentas** | SSMS, Jira, Alteryx (curso interno Keyrus e uso profissional) |
+| **Bancos / SQL** | Microsoft SQL Server, SQL/T-SQL, bancos de dados relacionais, modelagem de dados, performance tuning |
+| **NoSQL** | MongoDB — modelagem documental, consultas, agregações e cenários híbridos com SQL |
+| **ETL / Integração** | SSIS, ETL, DTS, cargas de SQL Server, Excel, XML, JSON, flat files |
+| **BI / Analytics** | Power BI, Business Intelligence, análise de dados, Excel, KPIs e dashboards |
+| **Qualidade e conformidade** | Qualidade de dados, reconciliação, LGPD, documentação técnica |
+| **Produto / entrega** | Análise de requisitos, homologação, Git, Jira |
+| **Linguagens** | Python (automação e análise exploratória), C# |
+| **Comportamentais** | Comunicação, capacidade analítica, proatividade, relacionamento interpessoal |
 | **Domínio de negócio** | Automação comercial (Aloha, Colibri), benefícios corporativos, varejo |
 
 ---

@@ -12,7 +12,7 @@ Alvorada, RS — Brazil
 
 Technology professional with **12 years of experience** in databases, data integration, retail automation, and systems support. Experience in **data security and data engineering** as a Senior DBA. Strong background in **SQL Server**, SSIS, Power BI, and ETL development, with complementary hands-on experience in **MongoDB** (NoSQL) for queries, aggregations, and hybrid SQL + document data scenarios. Includes team leadership in IT support.
 
-Interested in **Business Intelligence**, **Analytics**, and **Data Science**, with **Python** for workflow automation and exploratory data analysis. Currently pursuing an MBA in Data Science, BI, and Artificial Intelligence.
+Interested in **Business Intelligence**, **Analytics**, and **Data Science**, with **Python** for workflow automation and exploratory data analysis. Completed an **MBA in Data Science, BI, and Artificial Intelligence** (Jun 2026).
 
 ---
 
@@ -42,14 +42,13 @@ Interested in **Business Intelligence**, **Analytics**, and **Data Science**, wi
 
 ### Keyrus — São Paulo, Brazil
 
-**Systems Analyst (Business Intelligence)** | *Nov 2018 – Mar 2020*
+**Data Analyst (Business Intelligence)** | *Nov 2018 – Mar 2020*
 
-- Delivered **Business Intelligence** projects in a consulting environment: data integration, analytical modeling, and solutions for business units.
-- Built and maintained **ETL/ELT pipelines with SSIS**, extracting and transforming data from multiple sources into **SQL Server** (data marts and analytical databases).
-- Developed and enhanced **Power BI dashboards and reports** (data modeling, KPIs, and management metrics).
-- Cleansed and validated data with **SSMS** and Excel; documented business rules and source-to-target reconciliation.
-- Optimized **T-SQL** queries and supported load/report performance in high-volume scenarios.
-- Collaborated with stakeholders on requirements gathering, UAT, and iterative dashboard refinements.
+- Delivered **BI** consulting for **Telefônica (Vivo)** **MIS**: report extraction, database maintenance, and operational KPIs for contact-center decision making.
+- Analyzed call volume/tracking, retention (with/without human agents), and partner billing/incentives by site and product (e.g., prepaid/postpaid/control, IVR).
+- Built **T-SQL** queries and **ETL/SSIS** pipelines (multi-source loads, validation, automation/notifications) into **SQL Server** data marts.
+- Dimensional modeling, **KPIs**, and **Power BI** dashboards/reports; data cleansing, source-to-target reconciliation, and business-rule documentation.
+- Partnered with stakeholders on requirements, UAT, and iterative delivery of actionable insights.
 
 ---
 
@@ -95,7 +94,7 @@ Interested in **Business Intelligence**, **Analytics**, and **Data Science**, wi
 
 ### Centro Universitário Senac — Porto Alegre, Brazil
 
-**MBA — Data Science, BI and Artificial Intelligence** | *2025 – 2026 (in progress)*
+**MBA — Data Science, BI and Artificial Intelligence** | *2025 – Jun 2026* — **completed**
 
 - 360-hour program from BI fundamentals and statistics to machine learning and AI.
 - Data manipulation with **pandas** in **Jupyter Notebooks** (exploratory analysis and data preparation).

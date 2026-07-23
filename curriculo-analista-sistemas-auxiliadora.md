@@ -14,7 +14,7 @@ Alvorada, RS — Brasil · Disponibilidade para atuação híbrida (Região Metr
 
 Profissional de tecnologia com **12 anos de experiência**, com foco em **análise de sistemas**, **sustentação**, **melhoria de processos** e **atendimento a usuários**. Trajetória que une levantamento de necessidades de negócio, **SQL** para investigação e relatórios, **homologação** de entregas, gestão de demandas e parceria com desenvolvimento e fornecedores.
 
-Tecnóloga em **Análise e Desenvolvimento de Sistemas** e em formação em **MBA (Data Science, BI e IA)**. Vivência em automação comercial e operação (**Colibri**, **Aloha**), consultoria em **BI** (Keyrus) e melhoria de sistemas corporativos (**C#**, **SSIS**, **SQL Server**). Perfil **resolutivo**, organizado e orientado a entregas em ambiente dinâmico de sustentação.
+Tecnóloga em **Análise e Desenvolvimento de Sistemas** e **MBA (Data Science, BI e IA)** concluído em jun/2026. Vivência em automação comercial e operação (**Colibri**, **Aloha**), consultoria em **BI** (Keyrus) e melhoria de sistemas corporativos (**C#**, **SSIS**, **SQL Server**). Perfil **resolutivo**, organizado e orientado a entregas em ambiente dinâmico de sustentação.
 
 ---
 
@@ -41,9 +41,9 @@ Tecnóloga em **Análise e Desenvolvimento de Sistemas** e em formação em **MB
 
 ### Keyrus — São Paulo, SP
 
-**Analista de Sistemas (Business Intelligence)** | *nov/2018 – mar/2020*
+**Analista de Dados (Business Intelligence)** | *nov/2018 – mar/2020*
 
-- **Levantamento de requisitos** e interface com áreas de negócio em projetos de consultoria; tradução de necessidades em soluções de dados e relatórios.
+- **Levantamento de requisitos** e interface com áreas de negócio no cliente **Telefônica (Vivo)** / **MIS**; tradução de necessidades de contact center em soluções de dados e relatórios.
 - **Homologação** de entregas e ajustes iterativos em **Power BI** (KPIs, indicadores gerenciais) até validação pelos usuários.
 - Desenvolvimento e manutenção de pipelines **ETL com SSIS** e consultas **T-SQL**; documentação de regras e reconciliação origem/destino.
 - Tratamento e validação de dados com **SSMS** e Excel; extração de bases para análises ad hoc e suporte à tomada de decisão.
@@ -95,7 +95,7 @@ Tecnóloga em **Análise e Desenvolvimento de Sistemas** e em formação em **MB
 
 ### Centro Universitário Senac — Porto Alegre, RS
 
-**MBA — Data Science, BI e Inteligência Artificial** | *2025 – 2026 (em andamento)*
+**MBA — Data Science, BI e Inteligência Artificial** | *2025 – jun/2026* — **concluído**
 
 - Análise de dados, estatística aplicada, **pandas/Jupyter Notebooks** e projeto [Mais Experiência](https://maisexperiencia.com.br/) (plataforma digital desenvolvida em grupo).
 
