@@ -38,7 +38,7 @@ Vivência em **otimização de desempenho** (planos de execução, índices, tun
 - Garantia de **qualidade, integridade e consistência** dos dados: validação de cargas, auditoria de acessos e documentação padronizada de objetos de banco.
 - Sustentação e melhoria contínua de rotinas de banco no ambiente analítico e transacional; parceria com desenvolvimento (**C#**) e suporte em incidentes críticos.
 
-**Analista de Sistemas Pleno** | *mar/2020 – abr/2022*
+**Analista de Dados Pleno** | *mar/2020 – abr/2022*
 
 - Desenvolvimento e evolução de **procedures**, triggers e functions em **T-SQL** para regras de negócio e correções operacionais.
 - Criação e manutenção de processos **DTS/SSIS** e cargas a partir de **SQL Server**, **Excel**, **XML**, **JSON** e arquivos.

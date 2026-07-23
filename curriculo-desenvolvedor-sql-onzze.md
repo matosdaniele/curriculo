@@ -38,7 +38,7 @@ Vivência em **monitoramento e otimização de performance** (planos de execuç�
 - **Segurança e integridade:** gestão de permissões, auditoria de acessos, validação de cargas e documentação padronizada de objetos de banco.
 - Evolução de pipelines **SSIS** e integrações (APIs, JSON); parceria com desenvolvimento (**C#**) e suporte em incidentes críticos.
 
-**Analista de Sistemas Pleno** | *mar/2020 – abr/2022*
+**Analista de Dados Pleno** | *mar/2020 – abr/2022*
 
 - Desenvolvimento e evolução de **procedures**, **triggers** e **functions** em **T-SQL** para regras de negócio e correções operacionais.
 - Consultas **SQL** para análise, extração e validação de dados entre sistemas; apoio à homologação de entregas.

@@ -31,7 +31,7 @@ Interested in **Business Intelligence**, **Analytics**, and **Data Science**, wi
 - Advanced support for critical database incidents; collaboration with development (**C#**) and support teams on performance bottlenecks.
 - Automation of operational routines (jobs, alerts, maintenance scripts) to reduce operational risk.
 
-**Senior Systems Analyst** | *Mar 2020 – Apr 2022*
+**Senior Data Analyst** | *Mar 2020 – Apr 2022*
 
 - Analysis and manipulation of tables, views, triggers, stored procedures, and functions in **Microsoft SQL Server**.
 - Design and development of **DTS/SSIS** processes.

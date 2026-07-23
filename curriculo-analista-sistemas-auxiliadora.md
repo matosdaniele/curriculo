@@ -22,7 +22,7 @@ Tecnóloga em **Análise e Desenvolvimento de Sistemas** e **MBA (Data Science, 
 
 ### 838 Soluções em Benefícios — São Paulo, SP
 
-**Analista de Sistemas Pleno** | *mar/2020 – abr/2022*
+**Analista de Dados Pleno** | *mar/2020 – abr/2022*
 
 - Análise e manipulação de estruturas em **Microsoft SQL Server** (tabelas, views, triggers, procedures e functions) para apoiar regras de negócio e correções operacionais.
 - Levantamento técnico de demandas e **melhorias em sistemas desenvolvidos em C#**, em parceria com desenvolvimento e equipe de suporte.

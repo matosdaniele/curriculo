@@ -10,7 +10,7 @@ Alvorada, RS — Brasil
 
 ## Resumo
 
-Profissional de tecnologia com **12 anos de experiência** em **SQL Server**, **análise de dados**, **ETL** e **Business Intelligence**. Atuação como **DBA Pleno / Analista de Dados** e em consultoria de BI, com foco em consultas e rotinas a partir de regras de negócio, qualidade e reconciliação de dados, pipelines **SSIS** e dashboards **Power BI**. Vivência complementar em **MongoDB** (NoSQL). Histórico em liderança de equipes de suporte e TI.
+Profissional de tecnologia com **12 anos de experiência** em **SQL Server**, **análise de dados**, **ETL** e **Business Intelligence**. Atuação como **DBA Pleno** e **Analista de Dados** e em consultoria de BI, com foco em consultas e rotinas a partir de regras de negócio, qualidade e reconciliação de dados, pipelines **SSIS** e dashboards **Power BI**. Vivência complementar em **MongoDB** (NoSQL). Histórico em liderança de equipes de suporte e TI.
 
 Perfil analítico, colaborativo e orientado a dados confiáveis para tomada de decisão.
 
@@ -20,7 +20,7 @@ Perfil analítico, colaborativo e orientado a dados confiáveis para tomada de d
 
 ### 838 Soluções em Benefícios — São Paulo, SP
 
-**DBA Pleno / Analista de Dados** | *maio/2022 – mar/2026*
+**DBA Pleno** | *maio/2022 – mar/2026*
 
 - Desenvolvimento e manutenção de consultas e rotinas em **Microsoft SQL Server** a partir de regras de negócio, apoiando análises, indicadores e processos operacionais.
 - Construção e evolução de **views**, **procedures** e bases analíticas para consumo por relatórios e dashboards.
@@ -29,7 +29,7 @@ Perfil analítico, colaborativo e orientado a dados confiáveis para tomada de d
 - **Performance tuning** de consultas e jobs (ex.: redução de job crítico de **~24h para ~1h30**), melhorando a disponibilidade da informação para análise.
 - Administração de instâncias SQL Server (produção e homologação), políticas de **backup/restore**, segurança (logins, roles, auditoria) e parceria com desenvolvimento e áreas de negócio.
 
-**Analista de Sistemas Pleno** | *mar/2020 – abr/2022*
+**Analista de Dados Pleno** | *mar/2020 – abr/2022*
 
 - Extração e validação de dados com **SQL**; processos **DTS/SSIS**; homologação de entregas entre sistemas (**SQL Server**, Excel, XML, JSON e arquivos planos).
 - Análise e manutenção de tabelas, views, triggers, procedures e functions; apoio à equipe de suporte em sistemas **C#**.

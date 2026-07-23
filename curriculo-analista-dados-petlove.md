@@ -44,7 +44,7 @@ Domínio de **T-SQL** para análises complexas, **Power BI** (KPIs e comunicaç�
 
 ### 838 Soluções em Benefícios — São Paulo, SP
 
-**DBA Pleno / Analista de Dados** | *maio/2022 – mar/2026*
+**DBA Pleno** | *maio/2022 – mar/2026*
 
 - Desenvolvimento e manutenção de consultas e rotinas em **Microsoft SQL Server** a partir de regras de negócio, apoiando análises, indicadores e processos operacionais.
 - Construção e evolução de **views**, **procedures** e bases analíticas para consumo por relatórios e dashboards.
@@ -53,7 +53,7 @@ Domínio de **T-SQL** para análises complexas, **Power BI** (KPIs e comunicaç�
 - **Performance tuning** de consultas e jobs (ex.: redução de job crítico de **~24h para ~1h30**), melhorando a disponibilidade da informação para análise.
 - Parceria com desenvolvimento e áreas de negócio na interpretação de requisitos e evolução de entregas de dados.
 
-**Analista de Sistemas Pleno** | *mar/2020 – abr/2022*
+**Analista de Dados Pleno** | *mar/2020 – abr/2022*
 
 - Extração e validação de dados com **SQL**; processos **DTS/SSIS**; homologação de entregas entre sistemas (**SQL Server**, Excel, XML, JSON e arquivos planos).
 
