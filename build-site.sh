@@ -72,7 +72,7 @@ build_page() {
 
 build_page "curriculo.md" "$ROOT/index.html" "pt-BR" \
   "Daniele de Lima Matos — Currículo" \
-  "DBA Pleno · Engenharia de Dados · Business Intelligence" \
+  "DBA Pleno · Análise de Dados · Business Intelligence" \
   "Currículo profissional de Daniele de Lima Matos — DBA, dados e BI." \
   "Currículo" \
   "Ir para o conteúdo" \
@@ -87,7 +87,7 @@ build_page "curriculo.md" "$ROOT/index.html" "pt-BR" \
 
 build_page "curriculo-en.md" "$ROOT/en.html" "en" \
   "Daniele de Lima Matos — Resume" \
-  "Senior DBA · Data Engineering · Business Intelligence" \
+  "Senior DBA · Data Analysis · Business Intelligence" \
   "Professional resume of Daniele de Lima Matos — DBA, data and BI." \
   "Resume" \
   "Skip to content" \

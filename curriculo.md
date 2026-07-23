@@ -10,9 +10,9 @@ Alvorada, RS — Brasil
 
 ## Resumo
 
-Profissional de tecnologia com **12 anos de experiência** em **SQL Server**, **análise de dados**, **ETL** e **Business Intelligence**. Atuação como **DBA Pleno / Analista de Dados** e em consultoria de BI (**Keyrus**), com foco em consultas e rotinas a partir de regras de negócio, qualidade e reconciliação de dados, pipelines **SSIS** e dashboards **Power BI**. Vivência complementar em **MongoDB** (NoSQL). Histórico em liderança de equipes de suporte e TI.
+Profissional de tecnologia com **12 anos de experiência** em **SQL Server**, **análise de dados**, **ETL** e **Business Intelligence**. Atuação como **DBA Pleno / Analista de Dados** e em consultoria de BI, com foco em consultas e rotinas a partir de regras de negócio, qualidade e reconciliação de dados, pipelines **SSIS** e dashboards **Power BI**. Vivência complementar em **MongoDB** (NoSQL). Histórico em liderança de equipes de suporte e TI.
 
-Interesse em **Analytics** e **Data Science**, com **Python** para automação e análise exploratória. Formação em **MBA em Data Science, BI e Inteligência Artificial** (concluído em jun/2026). Perfil analítico, colaborativo e orientado a dados confiáveis para tomada de decisão.
+Perfil analítico, colaborativo e orientado a dados confiáveis para tomada de decisão.
 
 ---
 

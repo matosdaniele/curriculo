@@ -1,6 +1,6 @@
 # Daniele de Lima Matos
 
-**Senior DBA | Data Engineering | Business Intelligence**
+**Senior DBA | Data Analysis | Business Intelligence**
 
 Alvorada, RS — Brazil  
 [matos.daniele@gmail.com](mailto:matos.daniele@gmail.com) · +55 (11) 99431-4568  
