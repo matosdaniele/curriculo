@@ -1,25 +1,8 @@
-# HTML gerados pelo Pandoc (build PDF), não pelo site
-curriculo.html
-curriculo-en.html
-curriculo-analista-sistemas-auxiliadora.html
-curriculo-desenvolvedor-sql-vetta.html
-carta-auxiliadora-predial.html
-
-# PDFs
+# PDFs locais (exceto o oficial do site)
 *.pdf
 !Curriculo-DanieleLM.pdf
 
-# Build temporário
+# Temporários
 .build-tmp/
-site/.build-tmp/
-
-# Cópias antigas do site em site/ (use a raiz)
-site/index.html
-site/en.html
-site/analista-sistemas.html
-
-# LaTeX / Pandoc
-missfont.log
-mfput.log
-*.aux
 *.log
+*.aux
