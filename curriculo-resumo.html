@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <title>Daniele de Lima Matos — Currículo</title>
+  <style>
+    @page { size: A4; margin: 12mm 14mm; }
+    :root {
+      --teal: #0b5c6b;
+      --teal-dark: #0f3d40;
+      --muted: #5a6b75;
+      --line: #dde4e8;
+      --text: #1c2429;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+      font-size: 9.5pt;
+      line-height: 1.4;
+      color: var(--text);
+    }
+    a { color: var(--teal); text-decoration: none; }
+    header {
+      display: flex;
+      gap: 14px;
+      align-items: center;
+      background: linear-gradient(135deg, #0b5c6b 0%, #083d47 100%);
+      color: #fff;
+      padding: 14px 16px;
+      border-radius: 8px;
+      margin-bottom: 12px;
+    }
+    .photo {
+      width: 72px;
+      height: 72px;
+      border-radius: 50%;
+      object-fit: cover;
+      object-position: center 18%;
+      border: 2px solid rgba(255,255,255,.45);
+      flex-shrink: 0;
+    }
+    .brand h1 {
+      margin: 0;
+      font-size: 18pt;
+      font-weight: 700;
+      line-height: 1.15;
+    }
+    .tagline {
+      margin: 4px 0 0;
+      font-size: 9.5pt;
+      opacity: .95;
+    }
+    .contacts {
+      margin: 6px 0 0;
+      font-size: 8.5pt;
+      opacity: .92;
+    }
+    .contacts a { color: #b8e8ef; }
+    .more {
+      margin-top: 10px;
+      padding: 8px 12px;
+      background: #e8f4f6;
+      border-left: 4px solid var(--teal);
+      border-radius: 0 6px 6px 0;
+      font-size: 9pt;
+    }
+    h2 {
+      margin: 12px 0 6px;
+      font-size: 11pt;
+      color: var(--teal);
+      border-bottom: 1.5px solid #e8f4f6;
+      padding-bottom: 2px;
+    }
+    p { margin: 0 0 6px; }
+    ul { margin: 2px 0 8px; padding-left: 16px; }
+    li { margin: 2px 0; }
+    .job { margin-bottom: 8px; }
+    .job-title { font-weight: 700; }
+    .meta { color: var(--muted); font-size: 8.5pt; }
+    .skills {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 2px 16px;
+      font-size: 9pt;
+    }
+    .skills div { padding: 2px 0; }
+    .skills strong { color: var(--teal-dark); }
+    .edu-item { margin-bottom: 4px; }
+    footer {
+      margin-top: 10px;
+      font-size: 8pt;
+      color: var(--muted);
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img class="photo" src="img/foto-perfil.jpg" alt="Daniele de Lima Matos" width="72" height="72">
+    <div class="brand">
+      <h1>Daniele de Lima Matos</h1>
+      <p class="tagline">Analista de Dados &amp; BI · DBA SQL Server · ETL/SSIS · Modelagem de Dados</p>
+      <p class="contacts">
+        Alvorada, RS — Brasil ·
+        <a href="mailto:matos.daniele@gmail.com">matos.daniele@gmail.com</a> ·
+        (11) 99431-4568 ·
+        <a href="https://www.linkedin.com/in/matosdaniele/">LinkedIn</a>
+      </p>
+    </div>
+  </header>
+
+  <p class="more">
+    <strong>Versão resumida.</strong>
+    Detalhes completos (experiências, competências e projetos):
+    <a href="https://matosdaniele.github.io/curriculo/">https://matosdaniele.github.io/curriculo/</a>
+  </p>
+
+  <h2>Resumo</h2>
+  <p>
+    Profissional de dados com <strong>12 anos de experiência</strong> em TI, atuando como
+    <strong>DBA Pleno</strong> (SQL Server) e <strong>Analista de Dados/BI</strong>.
+    Forte em T-SQL, performance tuning, ETL/SSIS, qualidade de dados e Power BI.
+    Disponível para vagas de <strong>Analista de Dados/BI</strong> ou <strong>DBA</strong>.
+  </p>
+
+  <h2>Competências-chave</h2>
+  <div class="skills">
+    <div><strong>SQL &amp; DBA:</strong> SQL Server, T-SQL, backup/restore, tuning</div>
+    <div><strong>BI:</strong> Power BI, KPIs, dashboards, modelagem dimensional</div>
+    <div><strong>ETL:</strong> SSIS/DTS, integrações multi-fonte, qualidade de dados</div>
+    <div><strong>Bancos:</strong> SQL Server, MongoDB/Atlas; Oracle, MySQL, PostgreSQL, DB2</div>
+    <div><strong>Linguagens:</strong> Python, PowerShell, JavaScript, C#</div>
+    <div><strong>Produto:</strong> Mais Experiência (GitHub Pages, Node/Express, VM Oracle, Cloudflare)</div>
+  </div>
+
+  <h2>Experiência</h2>
+  <div class="job">
+    <div class="job-title">838 Soluções em Benefícios — São Paulo, SP</div>
+    <div class="meta">DBA Pleno · maio/2022 – mar/2026</div>
+    <ul>
+      <li>Administração SQL Server (produção/homologação), segurança, backup/restore e performance tuning (job crítico de ~24h para ~1h30).</li>
+      <li>Views, procedures, bases analíticas e pipelines ETL/SSIS com foco em qualidade e rastreabilidade.</li>
+    </ul>
+    <div class="meta">Analista de Dados Pleno · mar/2020 – abr/2022</div>
+    <ul>
+      <li>Extração/validação SQL, processos DTS/SSIS e homologação entre sistemas.</li>
+    </ul>
+  </div>
+  <div class="job">
+    <div class="job-title">Keyrus — São Paulo, SP</div>
+    <div class="meta">Analista de Dados (BI) · nov/2018 – mar/2020 · cliente Telefônica/Vivo (MIS)</div>
+    <ul>
+      <li>Data marts, KPIs, Power BI e ETL/SSIS para indicadores de contact center e campanhas.</li>
+    </ul>
+  </div>
+  <div class="job">
+    <div class="job-title">CDS Tecnologia · NCR Corporation · Plan Automação</div>
+    <div class="meta">Trainee BI · Analista de Suporte · Supervisora de TI (2012–2018)</div>
+    <ul>
+      <li>Base em BI/SQL, suporte a sistemas de varejo e liderança de equipe de help desk.</li>
+    </ul>
+  </div>
+
+  <h2>Formação</h2>
+  <div class="edu-item"><strong>MBA — Data Science, BI e IA</strong> · UniSenac · concluído (2025–jun/2026)</div>
+  <div class="edu-item"><strong>MBA — Administração de Banco de Dados Oracle</strong> · UniBTA · 2016–2018</div>
+  <div class="edu-item"><strong>Tecnologia em Análise e Desenvolvimento de Sistemas</strong> · Anhanguera · concluído</div>
+
+  <h2>Destaques</h2>
+  <ul>
+    <li>Projeto <a href="https://maisexperiencia.com.br/">Mais Experiência</a> — plataforma digital 50+ (desenvolvimento assistido por IA com Cursor).</li>
+    <li>Eventos: PGDay Porto Alegre 2026 · SQL Saturday #676 · DBA Brasil 2.0.</li>
+  </ul>
+
+  <footer>
+    Currículo completo:
+    <a href="https://matosdaniele.github.io/curriculo/">matosdaniele.github.io/curriculo</a>
+  </footer>
+</body>
+</html>

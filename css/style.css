@@ -62,6 +62,26 @@ body {
   gap: 1.5rem;
 }
 
+.brand-row {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  min-width: 0;
+  flex: 1 1 18rem;
+}
+
+.profile-photo {
+  flex-shrink: 0;
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+  object-position: center 18%;
+  border-radius: 50%;
+  border: 3px solid rgba(255, 255, 255, 0.4);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
+  background: rgba(255, 255, 255, 0.08);
+}
+
 .eyebrow {
   margin: 0 0 0.35rem;
   font-size: 0.8rem;
@@ -355,6 +375,15 @@ body {
     grid-template-columns: 1fr;
   }
 
+  .brand-row {
+    width: 100%;
+  }
+
+  .profile-photo {
+    width: 112px;
+    height: 112px;
+  }
+
   .sidebar {
     position: static;
   }
@@ -383,6 +412,12 @@ body {
     background: #0b5c6b;
     -webkit-print-color-adjust: exact;
     print-color-adjust: exact;
+  }
+
+  .profile-photo {
+    width: 100px;
+    height: 100px;
+    box-shadow: none;
   }
 
   .layout {

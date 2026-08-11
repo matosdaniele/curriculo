@@ -1,6 +1,6 @@
 # PDFs locais (exceto o oficial do site)
 *.pdf
-!Curriculo-DanieleLM.pdf
+!Curriculo-Daniele-de-Lima-Matos.pdf
 
 # Temporários
 .build-tmp/

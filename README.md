@@ -2,21 +2,18 @@
 
 Site do currículo profissional (GitHub Pages).
 
-## Publicação
+## Arquivos
 
-Branch **main**, pasta **`/ (root)`**.
+| Arquivo | Uso |
+|---------|-----|
+| `index.html` | Página completa (PT) |
+| `en.html` | Página completa (EN) |
+| `Curriculo-Daniele-de-Lima-Matos.pdf` | PDF resumido (1 página) |
+| `curriculo-resumo.html` | Fonte do PDF |
+| `Curriculo-Daniele-de-Lima-Matos-Unificado.docx` | Word completo |
+| `css/`, `js/`, `img/` | Assets do site |
 
-Arquivos do site:
-
-- `index.html` — português
-- `en.html` — inglês
-- `analista-sistemas.html` — versão Analista de Sistemas
-- `desenvolvedor-sql.html` — versão Desenvolvedor SQL
-- `css/`, `js/`
-- `Curriculo-DanieleLM.pdf`
-- `.nojekyll`
-
-URL: `https://matosdaniele.github.io/curriculo/`
+URL: https://matosdaniele.github.io/curriculo/
 
 ## Visualizar localmente
 
@@ -24,4 +21,4 @@ URL: `https://matosdaniele.github.io/curriculo/`
 python3 -m http.server 8080
 ```
 
-Abra [http://localhost:8080](http://localhost:8080).
+Abra http://localhost:8080.
