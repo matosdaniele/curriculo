@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <title>Carta de apresentação — Daniele de Lima Matos — iFood</title>
+  <style>
+    @page { size: A4; margin: 12mm 14mm; }
+    :root {
+      --teal: #0b5c6b;
+      --teal-dark: #0f3d40;
+      --muted: #5a6b75;
+      --text: #1c2429;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+      font-size: 10.5pt;
+      line-height: 1.45;
+      color: var(--text);
+    }
+    a { color: var(--teal); text-decoration: none; }
+    header {
+      display: flex;
+      gap: 14px;
+      align-items: center;
+      background: linear-gradient(135deg, #0b5c6b 0%, #083d47 100%);
+      color: #fff;
+      padding: 14px 16px;
+      border-radius: 8px;
+      margin-bottom: 14px;
+    }
+    .photo {
+      width: 72px;
+      height: 72px;
+      border-radius: 50%;
+      object-fit: cover;
+      object-position: center 18%;
+      border: 2px solid rgba(255,255,255,.45);
+      flex-shrink: 0;
+    }
+    .brand h1 {
+      margin: 0;
+      font-size: 18pt;
+      font-weight: 700;
+      line-height: 1.15;
+    }
+    .tagline {
+      margin: 4px 0 0;
+      font-size: 9.5pt;
+      opacity: .95;
+    }
+    .contacts {
+      margin: 6px 0 0;
+      font-size: 8.5pt;
+      opacity: .92;
+    }
+    .contacts a { color: #b8e8ef; }
+    .meta {
+      margin: 0 0 14px;
+      padding: 8px 12px;
+      background: #e8f4f6;
+      border-left: 4px solid var(--teal);
+      border-radius: 0 6px 6px 0;
+      font-size: 9.5pt;
+    }
+    .meta strong { color: var(--teal-dark); }
+    p { margin: 0 0 9px; text-align: justify; }
+    .sign {
+      margin-top: 14px;
+      text-align: left;
+    }
+    .sign p { margin: 0 0 2px; text-align: left; }
+    .sign .name { font-weight: 700; color: var(--teal-dark); margin-top: 8px; }
+    .sign .links { font-size: 9.5pt; color: var(--muted); }
+  </style>
+</head>
+<body>
+  <header>
+    <img class="photo" src="img/foto-perfil.jpg" alt="Daniele de Lima Matos" width="72" height="72">
+    <div class="brand">
+      <h1>Daniele de Lima Matos</h1>
+      <p class="tagline">Analista de Dados &amp; BI · DBA SQL Server · ETL/SSIS · Modelagem de Dados</p>
+      <p class="contacts">
+        Alvorada, RS — Brasil ·
+        <a href="mailto:matos.daniele@gmail.com">matos.daniele@gmail.com</a> ·
+        (11) 99431-4568 ·
+        <a href="https://www.linkedin.com/in/matosdaniele/">LinkedIn</a>
+      </p>
+    </div>
+  </header>
+
+  <p class="meta">
+    <strong>Carta de apresentação</strong> ·
+    Analista BI Pleno · iFood · BI Receita &amp; Estrutura Plan Com · Remoto
+  </p>
+
+  <p>Prezada equipe de Recrutamento e time de BI do iFood,</p>
+
+  <p>Sou Daniele de Lima Matos, profissional de dados com 12 anos de experiência em TI, atuando como Analista de Dados/BI e como DBA Pleno em Microsoft SQL Server. Candidatei-me à vaga de Analista BI Pleno porque o que vocês descrevem — pipelines e reports confiáveis, estabilizar rotinas críticas, dashboards com storytelling e recomendações acionáveis — é o ciclo que já percorro, com ênfase em qualidade do dado antes do insight.</p>
+
+  <p>Na 838 Soluções em Benefícios desenvolvi e mantive consultas, views, procedures e bases analíticas a partir de regras de negócio; construí pipelines ETL/SSIS automatizados, com cargas incrementais e múltiplas fontes; e tratei qualidade de ponta a ponta: validação, reconciliação origem/destino, integridade e documentação. O case que melhor resume esse rigor é a redução de um job crítico de cerca de 24 horas para cerca de 1h30: assumir falha, investigar causa raiz e devolver a informação no prazo. Antes, na Keyrus (cliente Telefônica/Vivo), atuei em consultoria de BI: modelagem dimensional, KPIs, dashboards em Power BI e apresentação de resultados para áreas de negócio.</p>
+
+  <p>Tenho SQL avançado (T-SQL) para consulta, otimização e análise; Python (pandas) para tratamento e automação; Power BI para painéis e materiais executivos; e uso de IA generativa no próprio fluxo analítico para acelerar investigação, documentação e extração de insights. Documento processos, uso Git e transito entre times técnicos e de negócio. O MBA em Data Science, BI e Inteligência Artificial (UniSenac, concluído) reforça estatística, visualização e o trânsito da base ao insight.</p>
+
+  <p>Sou franca sobre o recorte: PySpark, Databricks e orquestração tipo Airflow ainda não foram o meu ambiente de produção no mesmo volume que tenho em SQL Server, ETL e Power BI. O que levo pronto é SQL de verdade, pipeline rastreável, qualidade observável, dashboard com narrativa e autonomia para estabilizar o que está quebrando; o que for do padrão iFood (Spark, Airflow, ThoughtSpot), aprendo com a mesma disciplina que já usei para evoluir jobs críticos e indicadores em produção.</p>
+
+  <p>Moro em Alvorada/RS e estou disponível para o modelo remoto. Currículo completo: <a href="https://matosdaniele.github.io/curriculo/">https://matosdaniele.github.io/curriculo/</a></p>
+
+  <p>Agradeço a oportunidade e fico à disposição para conversar.</p>
+
+  <div class="sign">
+    <p>Atenciosamente,</p>
+    <p class="name">Daniele de Lima Matos</p>
+    <p class="links">
+      Alvorada/RS ·
+      <a href="mailto:matos.daniele@gmail.com">matos.daniele@gmail.com</a> ·
+      (11) 99431-4568 ·
+      <a href="https://www.linkedin.com/in/matosdaniele/">linkedin.com/in/matosdaniele</a>
+    </p>
+  </div>
+</body>
+</html>

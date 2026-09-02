@@ -22,3 +22,22 @@ python3 -m http.server 8080
 ```
 
 Abra http://localhost:8080.
+
+## Busca de emprego (fluxo semi-automatizado)
+
+| Arquivo | Uso |
+|---------|-----|
+| `RUNBOOK.md` | Passo a passo do lote diário |
+| `base-resume.md` | Fonte única da verdade para personalização |
+| `config/criterios-busca.md` | Filtros, scoring, **sites de busca** e limites |
+| `applications.csv` | Log de vagas (anti-duplicata) |
+| `jobs/queue.md` | URLs para processar |
+| `jobs/_template/` | Modelos por vaga |
+
+**Comando no Cursor:**
+
+```
+Execute o lote de candidaturas de hoje conforme RUNBOOK.md
+```
+
+O agente prepara análise + carta; você revisa e aplica manualmente.

@@ -1,8 +1,15 @@
-# PDFs locais (exceto o oficial do site)
+# PDFs locais (exceto o oficial do site e a carta PicPay)
 *.pdf
 !Curriculo-Daniele-de-Lima-Matos.pdf
+!Carta-Apresentacao-Daniele-de-Lima-Matos-PicPay.pdf
+!Carta-Apresentacao-Daniele-de-Lima-Matos-Stone.pdf
+!Carta-Apresentacao-Daniele-de-Lima-Matos-iFood.pdf
 
 # Temporários
 .build-tmp/
 *.log
 *.aux
+.venv-tts/
+
+apresentacao-ingles.mp3
+apresentacao-ingles.txt
