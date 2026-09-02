@@ -349,6 +349,13 @@ body {
   margin: 0;
 }
 
+.prose blockquote footer {
+  margin-top: 0.75rem;
+  font-style: normal;
+  font-size: 0.9rem;
+  color: var(--text);
+}
+
 /* Experience cards — h3 after company context */
 .prose h3 + p em,
 .prose h3 + em {

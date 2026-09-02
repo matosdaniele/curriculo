@@ -94,6 +94,11 @@ Plataforma digital para pessoas 50+ (empregabilidade, capacitação, comunidade)
 
 PGDay Porto Alegre 2026 · SQL Saturday #676 · DBA Brasil 2.0
 
+## Referências profissionais (LinkedIn)
+
+- **Angelo Paschoal Junior** (gestor direto): “Super recomendo, profissional compromissada, sempre esteve presente nos grandes projetos, não se escondendo das responsabilidades.” — https://www.linkedin.com/in/angelo-paschoal-junior
+- **Wesley Abelini** (analista desenvolvedor): profissional dedicada, determinada, liderança, comunicação com cliente, prazos apertados e ambiente de equipe. — https://www.linkedin.com/in/wesley-abelini-26553429
+
 ## O que NÃO é dia a dia em produção (ser franca nas cartas)
 
 - MySQL e PostgreSQL: formação e prática complementar, não o mesmo volume que SQL Server
