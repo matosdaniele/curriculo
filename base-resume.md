@@ -10,6 +10,7 @@ Fonte única da verdade para personalização de candidaturas. **Não inventar e
 - **Telefone:** (11) 99431-4568
 - **LinkedIn:** https://www.linkedin.com/in/matosdaniele/
 - **Currículo online:** https://matosdaniele.github.io/curriculo/
+- **Blog:** https://matosdaniele.github.io/ *(Dicas da Dani — trilhas de dados)*
 - **Projeto:** https://maisexperiencia.com.br/
 
 ## Headline
@@ -89,6 +90,10 @@ Redução de job crítico de **~24h para ~1h30** em SQL Server (performance tuni
 ## Projeto destacado — Mais Experiência
 
 Plataforma digital para pessoas 50+ (empregabilidade, capacitação, comunidade). Front em GitHub Pages; API Node.js/Express em Oracle Cloud Always Free (Nginx, TLS, systemd); MongoDB Atlas; Cloudflare; desenvolvimento assistido por IA com Cursor.
+
+## Blog — Dicas da Dani
+
+Trilhas de dados (fundamentos, SQL/NoSQL, análise e visualização, programação para dados): https://matosdaniele.github.io/
 
 ## Eventos
 

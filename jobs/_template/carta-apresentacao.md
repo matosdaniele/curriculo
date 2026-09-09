@@ -28,7 +28,8 @@ Daniele de Lima Matos
 Alvorada/RS  
 matos.daniele@gmail.com  
 (11) 99431-4568  
-LinkedIn: https://www.linkedin.com/in/matosdaniele/
+LinkedIn: https://www.linkedin.com/in/matosdaniele/  
+Blog: https://matosdaniele.github.io/
 
 ---
 
