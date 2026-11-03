@@ -1,15 +1,29 @@
-# PDFs locais (exceto o oficial do site e a carta PicPay)
+# PDFs locais (o PDF do site permanece)
 *.pdf
 !Curriculo-Daniele-de-Lima-Matos.pdf
-!Carta-Apresentacao-Daniele-de-Lima-Matos-PicPay.pdf
-!Carta-Apresentacao-Daniele-de-Lima-Matos-Stone.pdf
-!Carta-Apresentacao-Daniele-de-Lima-Matos-iFood.pdf
 
 # Temporários
 .build-tmp/
 *.log
 *.aux
 .venv-tts/
-
 apresentacao-ingles.mp3
 apresentacao-ingles.txt
+tmp-*
+
+# Material de candidaturas (fica no backup local, fora deste repositório)
+jobs/
+config/
+.cursor/
+RUNBOOK.md
+base-resume.md
+applications.csv
+linkedin-inmail.md
+banner-linkedin.html
+carta-apresentacao-*
+Carta-Apresentacao-*
+checklist-*
+pre-entrevista-*
+resume-tcs-*
+Resume-*
+RecruTest.pdf
